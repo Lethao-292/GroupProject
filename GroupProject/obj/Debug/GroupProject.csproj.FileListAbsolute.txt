@@ -1,0 +1,10 @@
+D:\VisualStudio\CN5 2\GroupProject\GroupProject\bin\Debug\GroupProject.exe.config
+D:\VisualStudio\CN5 2\GroupProject\GroupProject\bin\Debug\GroupProject.exe
+D:\VisualStudio\CN5 2\GroupProject\GroupProject\bin\Debug\GroupProject.pdb
+D:\VisualStudio\CN5 2\GroupProject\GroupProject\obj\Debug\GroupProject.MainForm.resources
+D:\VisualStudio\CN5 2\GroupProject\GroupProject\obj\Debug\GroupProject.Properties.Resources.resources
+D:\VisualStudio\CN5 2\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.GenerateResource.cache
+D:\VisualStudio\CN5 2\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.CoreCompileInputs.cache
+D:\VisualStudio\CN5 2\GroupProject\GroupProject\obj\Debug\GroupProject.exe
+D:\VisualStudio\CN5 2\GroupProject\GroupProject\obj\Debug\GroupProject.pdb
+D:\VisualStudio\CN5 2\GroupProject\GroupProject\obj\Debug\GroupProject.csprojAssemblyReference.cache
