@@ -39,7 +39,6 @@ namespace GroupProject
             else
                 txtGioiTinh.Text = "Nữ";
             txtMaKhoa.Text = sinhVien.MaKhoa.Trim();
-            txtDiemTB.Text = "0";
         }
         public void LoadDataGridView(int MaSV)
         {
