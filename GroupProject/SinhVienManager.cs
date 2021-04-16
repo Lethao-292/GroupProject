@@ -26,7 +26,7 @@ namespace GroupProject
         }
         private SinhVienManager()
         {
-            String ConnStr = "server=.;database=QLSVien;uid=sa;pwd=123456";
+            String ConnStr = "server=.;database=QLSVien;Integrated Security=true";
             Conn = new SqlConnection(ConnStr);
         }
         public SinhVien FindSinhVienByMaSV (int MaSV)

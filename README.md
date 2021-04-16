@@ -1,9 +1,9 @@
-# Welcome to Tina reposotory
-This repository contains a simple Java application used to demonstate the CI - Continous Integration process, a part of Introduction to Sofware Engeneering course at FPT University, HCMC Campus
+# Welcome to GroupProject repository of Tina
+This repository contains a simple C# application used to demonstate study result of students.
 
 ##You will find in this repo:
-* MathUtil class: hold all of our own Math methods
-* Test class: demonstate on how to ensure the software quality. The tecnics applied: TDD, Unit Testing (JUnit)
+* How to interact with  datagridview in Winform using .NET Framework.
+* Work with SQL Server by C# Languages.
 * .gitignore
 * Markdown file: this file itself
 
@@ -11,4 +11,4 @@ This repository contains a simple Java application used to demonstate the CI - C
 1. [Github] (https://github.com/Lethao-292)
 2. [Facebook] (https://www.facebook.com/nguyenlephuong.thao.334)
 
-#### © 2020 by Tina
+#### © 2021 by Tina
